@@ -1,10 +1,9 @@
 *.pyc
 *~
 __pycache__
-myvenv
+venv
 note
 *.zip
-db.sqlite3
 /static
 .DS_Store
 .idea
